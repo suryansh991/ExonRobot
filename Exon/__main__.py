@@ -119,7 +119,7 @@ PM_START_TEX = """
 
 PM_START_TEXT = """
 *ʜᴇʟʟᴏ {} !*
-✪ ɪ ᴀᴍ  ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ \nᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ
+✪ ɪ ᴀᴍ Dᴀʀᴋ Cᴏɴᴛʀᴏʟʟᴇʀ, ᴀ ᴍᴀɴᴀɢᴇᴍᴇɴᴛ ʙᴏᴛ \nᴡɪᴛʜ ᴜsᴇғᴜʟʟ ғᴇᴀᴛᴜʀᴇ ᴍᴀᴋᴇ ᴍᴇ ᴀᴅᴍɪɴ ɪɴ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛʜᴇɴ sᴇᴇ ᴍʏ ᴘᴏᴡᴇʀs ʙᴜᴅᴅʏ
 *─────────────*
  ➻ *ᴜᴘᴛɪᴍᴇ:* `{}`
  ➻ *ᴜsᴇʀs:* `{}`
@@ -144,7 +144,7 @@ buttons = [
     [
         InlineKeyboardButton(text=" ᴄᴏᴍᴍᴀɴᴅs", callback_data="help_back"),
         InlineKeyboardButton(
-            text="sᴏᴜʀᴄᴇ 🌐", url="https://github.com/TEAM-ABG/ExonRobot"
+            text="sᴏᴜʀᴄᴇ 🌐", url="https://t.me/DarkestXmarket666"
         ),
     ],
     [
@@ -768,7 +768,7 @@ def main():
 ㅤ🥀 {dispatcher.bot.first_name} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ .....
 
 ━━━━━━━━━━━━━
-⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [𝐀ʙɪꜱʜɴᴏɪ](https://t.me/{OWNER_USERNAME})
+⍟ **ᴍʏ ᴏᴡɴᴇʀ :** [Sᴜʀʏᴀɴsᕼ](https://t.me/{OWNER_USERNAME})
 ⍟ **ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ :** `{lver}`
 ⍟ **ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ :** `{tver}`
 ⍟ **ᴘʏʀᴏɢʀᴀᴍ ᴠᴇʀsɪᴏɴ :** `{pver}`
@@ -838,7 +838,7 @@ def main():
 
 if __name__ == "__main__":
     LOGGER.info(
-        f"sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇS Any issu JOIN @AbishnoiMF : {str(ALL_MODULES)}"
+        f"sᴜᴄᴄᴇssғᴜʟʟʏ ʟᴏᴀᴅᴇᴅ ᴍᴏᴅᴜʟᴇS Any issu JOIN @DarkestMarket666 : {str(ALL_MODULES)}"
     )
     telethn.start(bot_token=TOKEN)
     pgram.start()
